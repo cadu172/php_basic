@@ -50,7 +50,7 @@
 			<li><a href="08_html_e_php_form_ex02.php">Aula 08 - Integração HTML5 + PHP (ex 02)</a></li>
 			<li><a href="09_operador_if_ex01.php">Aula 09 - Estrutura Condicional "IF" (ex 01)</a></li>
 			<li><a href="09_operador_if_ex03.php">Aula 09 - Estrutura Condicional "IF" (ex 03)</a></li>
-			<li>Aula 10 – Estrutura Condicional Switch</li>
+			<li><a href="10_estrutura_switch_ex01.php">Aula 10 – Estrutura Condicional Switch</a></li>
 			<li>Aula 11 – Estrutura de Repetição While</li>
 			<li>Aula 12 – Estrutura de Repetição Do While</li>
 			<li>Aula 13 – Estrutura de Repetição For</li>
