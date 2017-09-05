@@ -29,7 +29,7 @@
 	<label for="CHKCubo">Cubo</label><input type="radio" name="operacao" value="cubo" id="CHKCubo" /><br />
 	<label for="CHKRaiz">Raíz</label><input type="radio" name="operacao" value="raiz" id="CHKRaiz" />
 	</fieldset>	
-	<input type="submit" name="btnCalcular" value="Realizar Operação" />
+	<input type="submit" name="btnCalcular" value="Realizar Operação" class="botao" />
 	</fieldset>
 	<?php
 

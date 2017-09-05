@@ -259,25 +259,16 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 2674,
+				"buffer_size": 3068,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "menu_topo.php",
+			"file": "10_estrutura_switch_ex03.php",
 			"settings":
 			{
-				"buffer_size": 152,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "08_html_e_php_form_ex02.php",
-			"settings":
-			{
-				"buffer_size": 1534,
+				"buffer_size": 1580,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -315,12 +306,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/inetpub/wwwroot/cursoemvideo/php_basico",
-		"/C/inetpub/wwwroot/cursoemvideo/php_basico/_css",
-		"/C/inetpub/wwwroot/cursoemvideo/php_basico/debug"
+		"/C/inetpub/wwwroot/phpserver/cursoemvideo/php_basic",
+		"/C/inetpub/wwwroot/phpserver/cursoemvideo/php_basic/_css"
 	],
 	"file_history":
 	[
+		"/C/inetpub/wwwroot/phpserver/cursoemvideo/php_basic/10_estrutura_switch_ex02.php",
+		"/C/inetpub/wwwroot/phpserver/cursoemvideo/php_basic/10_estrutura_switch_ex01.php",
+		"/C/inetpub/wwwroot/phpserver/cursoemvideo/php_basic/menu_topo.php",
+		"/C/inetpub/wwwroot/phpserver/cursoemvideo/php_basic/08_html_e_php_form_ex02.php",
 		"/C/inetpub/wwwroot/cursoemvideo/php_basico/08_html_e_php_form_ex01.php",
 		"/C/inetpub/wwwroot/cursoemvideo/php_basico/_css/estilo.css",
 		"/C/inetpub/wwwroot/cursoemvideo/php_basico/06_operadores_atribuicao_04.php",
@@ -380,6 +374,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"operacao",
 			" . "
 		],
 		"highlight": true,
@@ -399,7 +394,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -408,15 +403,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2674,
+						"buffer_size": 3068,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2015,
-								2015
+								2504,
+								2504
 							]
 						],
 						"settings":
@@ -424,8 +419,8 @@
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 158.0,
-						"translation.y": 660.0,
+						"translation.x": 83.0,
+						"translation.y": 604.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -433,47 +428,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "menu_topo.php",
+					"file": "10_estrutura_switch_ex03.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 152,
+						"buffer_size": 1580,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2,
-								2
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "08_html_e_php_form_ex02.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1534,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								696,
-								696
+								1254,
+								1254
 							]
 						],
 						"settings":
@@ -482,7 +449,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 570.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
