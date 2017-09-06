@@ -55,6 +55,7 @@
 			<li><a href="10_estrutura_switch_ex03.php">Aula 10 – Estrutura Condicional Switch (ex 03)</a></li>
 			<li><a href="11_estrutura_while_ex01.php">Aula 11 – Estrutura de Repetição While (Exercicio 1)</a></li>
 			<li><a href="11_estrutura_while_ex02.php">Aula 11 – Estrutura de Repetição While (Exercicio 2)</a></li>
+			<li><a href="11_estrutura_while_ex03.php">Aula 11 – Estrutura de Repetição While (Exercicio 3)</a></li>
 			<li>Aula 12 – Estrutura de Repetição Do While</li>
 			<li>Aula 13 – Estrutura de Repetição For</li>
 			<li>Aula 14 – Rotinas em PHP (Parte 1)</li>

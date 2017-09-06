@@ -22,12 +22,12 @@
 		<?php
 
 		$contador = 1;
-		$qtdCaixas = (int)$_POST["qtdCaixas"];
+		$qtdCaixas = (int)$_GET["qtdCaixas"];
 		$caixaAtual = "";
 
 		while ( $contador <= $qtdCaixas ) {			
 			$caixaAtual = $_POST["edtTexto".$contador];			
-			echo "O Valor Informado na caixa de texto nº ".$contador." é: ".$caixaAtual." ";
+			echo "<p>O Valor Informado na caixa de texto nº ".$contador." é: ".$caixaAtual."</p>";
 			$contador += 1;
 		}
 

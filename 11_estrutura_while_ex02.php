@@ -19,7 +19,7 @@
 		?>
 	</header>	
 	<!-- # codigo aqui -->
-	<form action="11_estrutura_while_ex01_request.php?qtdCaixas=<?php =$qtdCaixas?>" method="post" id="frmVerificarREGIAO">
+	<form action="11_estrutura_while_ex02_request.php?qtdCaixas=<?=$qtdCaixas?>" method="post" id="frmVerificarREGIAO">
 	<fieldset>
 		<p>Criar Dinâmicamente 5 Caixas de Input Text</p><br />
 		<fieldset>
