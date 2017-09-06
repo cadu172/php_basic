@@ -12,7 +12,8 @@
 	<div>
 	<header>
 		<h1></h1>
-		<?php include 'menu_topo.php';?>
+		<?php include 'menu_topo.php';
+		?>
 	</header>	
 	<!-- # codigo aqui -->
 	<form action="10_estrutura_switch_ex03.php" method="post" id="frmVerificarREGIAO">

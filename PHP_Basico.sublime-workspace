@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"con",
+				"contador"
+			],
+			[
 				"bo",
 				"bold"
 			],
@@ -152,10 +156,6 @@
 				"content\tAttr"
 			],
 			[
-				"con",
-				"content\tAttr"
-			],
-			[
 				"colo",
 				"color"
 			],
@@ -259,16 +259,34 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 3068,
+				"buffer_size": 3231,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "10_estrutura_switch_ex03.php",
+			"file": "11_estrutura_while_ex02.php",
 			"settings":
 			{
-				"buffer_size": 1580,
+				"buffer_size": 1149,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "11_estrutura_while_ex01.php",
+			"settings":
+			{
+				"buffer_size": 835,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "11_estrutura_while_ex02_request.php",
+			"settings":
+			{
+				"buffer_size": 986,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -311,6 +329,8 @@
 	],
 	"file_history":
 	[
+		"/C/inetpub/wwwroot/phpserver/cursoemvideo/php_basic/11_estrutura_while_ex01.php",
+		"/C/inetpub/wwwroot/phpserver/cursoemvideo/php_basic/10_estrutura_switch_ex03.php",
 		"/C/inetpub/wwwroot/phpserver/cursoemvideo/php_basic/10_estrutura_switch_ex02.php",
 		"/C/inetpub/wwwroot/phpserver/cursoemvideo/php_basic/10_estrutura_switch_ex01.php",
 		"/C/inetpub/wwwroot/phpserver/cursoemvideo/php_basic/menu_topo.php",
@@ -360,7 +380,7 @@
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -403,15 +423,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3068,
+						"buffer_size": 3231,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2504,
-								2504
+								2712,
+								2712
 							]
 						],
 						"settings":
@@ -419,28 +439,28 @@
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 83.0,
+						"translation.x": 123.0,
 						"translation.y": 604.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "10_estrutura_switch_ex03.php",
+					"file": "11_estrutura_while_ex02.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1580,
+						"buffer_size": 1149,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1254,
-								1254
+								581,
+								581
 							]
 						],
 						"settings":
@@ -449,10 +469,68 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 570.0,
+						"translation.y": 118.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "11_estrutura_while_ex01.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "11_estrutura_while_ex02_request.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								606,
+								616
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 156.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -460,7 +538,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 26.0
 	},
 	"input":
 	{
@@ -497,7 +575,7 @@
 	"project": "PHP_Basico.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
