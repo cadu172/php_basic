@@ -56,7 +56,9 @@
 			<li><a href="11_estrutura_while_ex01.php">Aula 11 – Estrutura de Repetição While (Exercicio 1)</a></li>
 			<li><a href="11_estrutura_while_ex02.php">Aula 11 – Estrutura de Repetição While (Exercicio 2)</a></li>
 			<li><a href="11_estrutura_while_ex03.php">Aula 11 – Estrutura de Repetição While (Exercicio 3)</a></li>
-			<li>Aula 12 – Estrutura de Repetição Do While</li>
+			<li><a href="12_estrutura_do_while_ex01.php">Aula 12 – Estrutura de Repetição "Do While" (Exercício 1)</a></li>
+			<li><a href="12_estrutura_do_while_ex02.php">Aula 12 – Estrutura de Repetição "Do While" (Exercício 2)</a></li>
+			<li><a href="12_estrutura_do_while_ex03.php">Aula 12 – Estrutura de Repetição "Do While" (Exercício 3)</a></li>
 			<li>Aula 13 – Estrutura de Repetição For</li>
 			<li>Aula 14 – Rotinas em PHP (Parte 1)</li>
 			<li>Aula 15 – Rotinas em PHP (Parte 2)</li>
