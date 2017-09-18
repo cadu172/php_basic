@@ -66,7 +66,12 @@
 			<li><a href="14_estrutura_functions_ex02.php">Aula 14 – Rotinas em PHP (Parte 1) (Exercicio 2)</a></li>
 			<li><a href="14_estrutura_functions_ex03.php">Aula 14 – Rotinas em PHP (Parte 1) (Exercicio 3)</a></li>
 			<li><a href="15_estrutura_functions_ex01.php">Aula 15 – Rotinas em PHP (Parte 2) (Exercicio 1)</a></li>
-			<li>Aula 16 – Funções String em PHP (Parte 1)</li>
+			<li><a href="15_exemplo_include.php">Aula 15 – Rotinas em PHP (Parte 2) (Usando INCLUDE)</a></li>
+			<li><a href="15_exemplo_require.php">Aula 15 – Rotinas em PHP (Parte 2) (Usando REQUIRE)</a></li>
+			<li><a href="15_exemplo_include_once.php">Aula 15 – Rotinas em PHP (Parte 2) (Usando INCLUDE ONCE)</a></li>
+			<li><a href="15_exemplo_require_once.php">Aula 15 – Rotinas em PHP (Parte 2) (Usando REQUIRE ONCE)</a></li>
+
+			<li><a href="16_funcoes_string_01.php">Aula 16 – Funções String em PHP (Parte 1)</a></li>
 			<li>Aula 17 – Funções String em PHP (Parte 2)</li>
 			<li>Aula 18 – Vetores e Matrizes (Parte 1)</li>
 			<li>Aula 19 – Vetores e Matrizes (Parte 2)</li>
