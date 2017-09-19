@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"print",
+				"print_r"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
 				"fun",
 				"func_get_args"
 			],
@@ -280,7 +288,7 @@
 			"file": "16_funcoes_string_01.php",
 			"settings":
 			{
-				"buffer_size": 1613,
+				"buffer_size": 2765,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -441,7 +449,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -513,15 +521,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1613,
+						"buffer_size": 2765,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1415,
-								1415
+								2216,
+								2216
 							]
 						],
 						"settings":
@@ -530,7 +538,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 462.0,
+						"translation.y": 1674.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -671,7 +679,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
