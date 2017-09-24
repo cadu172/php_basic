@@ -111,19 +111,57 @@
 
 		ocorre o mesmo que a funcao explode
 
+		a diferenca que vc especifica a cada quantos caracteres deve ser quebrada a string
+
+		no exemplo abaixo estou quebrando a string em matriz a cada 5 caracteres
+
+	*/
+	echo "<hr />";
+	echo "<p>Função <strong>str_split<strong></p>";
+	$strNome = "CARLOS;EDUARDO;DOS;SANTOS;ROBERTO";
+	echo "A variável strNome foi convertida em: ";
+	print_r(str_split($strNome,5));
+
+
+
+	/*
+
 	11. implode
 
 		converte uma matriz em string, ou seja, concatena todas as posições em uma unica string
 
+	*/
+	$nomeARRAY = array("CARLOS ","EDUARDO ","DOS ","SANTOS ","ROBERTO");
+	$arrayConcatenado = implode($nomeARRAY);
+
+	echo "<hr />";
+	echo "<p>Função <strong>implode<strong></p>";
+	echo "Matriz original:";
+	print_r($nomeARRAY);
+	echo "Convertido em STRING: $arrayConcatenado  ";	
+
+	/*
 	12. chr
 
 		converte um numero (tabela ascii) de caracter na letra corresponde
+
+	*/
+	echo "<hr />";
+	echo "<p>Função <strong>chr<strong></p>";	
+	echo "O numero 65 da tabela ASCII representa a letra ".chr(65);
+
+
+	/*
 
 	13. ord
 
 		converte uma letra no seu caracter (tabela ascii)
 
 	*/
+	echo "<hr />";
+	echo "<p>Função <strong>chr<strong></p>";	
+	echo 'O código do caracter "A" na tabela ASCII representa o número: '.ord("A");
+
 
 	?>	
 	</fieldset>				
