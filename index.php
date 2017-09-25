@@ -72,9 +72,9 @@
 			<li><a href="15_exemplo_require_once.php">Aula 15 – Rotinas em PHP (Parte 2) (Usando REQUIRE ONCE)</a></li>
 
 			<li><a href="16_funcoes_string_01.php">Aula 16 – Funções String em PHP (Parte 1)</a></li>
-			<li><a href="16_funcoes_string_02.php">Aula 16 – Funções String em PHP (Parte 2)</a></li>
-			<li>Aula 17 – Funções String em PHP (Parte 2)</li>
-			<li>Aula 18 – Vetores e Matrizes (Parte 1)</li>
+			<li><a href="17_funcoes_string_02.php">Aula 17 – Funções String em PHP (Parte 2)</a></li>
+
+			<li><a href="18_vetor_matriz_01.php">Aula 18 – Vetores e Matrizes (Parte 1)</a></li>
 			<li>Aula 19 – Vetores e Matrizes (Parte 2)</li>
 		</ul>
 	</nav>
