@@ -75,7 +75,7 @@
 			<li><a href="17_funcoes_string_02.php">Aula 17 – Funções String em PHP (Parte 2)</a></li>
 
 			<li><a href="18_vetor_matriz_01.php">Aula 18 – Vetores e Matrizes (Parte 1)</a></li>
-			<li>Aula 19 – Vetores e Matrizes (Parte 2)</li>
+			<li><a href="19_vetor_matriz_01.php">Aula 19 – Vetores e Matrizes (Parte 2)</a></li>
 		</ul>
 	</nav>
 	</div>
